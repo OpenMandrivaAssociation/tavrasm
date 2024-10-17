@@ -9,7 +9,7 @@ Summary:       	A AVR assembler
 Source0:        %{name}-%{version}.tar.bz2
 License:        GPL
 Group:          Development/Other
-Url:         	http://www.tavrasm.org
+Url:         	https://www.tavrasm.org
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:  flex, bison
 
