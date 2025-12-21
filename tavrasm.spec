@@ -11,6 +11,7 @@ License:        GPL
 Group:          Development/Other
 Url:         	https://www.tavrasm.org
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	make
 BuildRequires:  flex, bison
 
 %description
